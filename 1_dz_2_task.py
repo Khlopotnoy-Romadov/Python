@@ -1,0 +1,7 @@
+print("Введите вашу фамилию: ")
+firstName = input()
+firstName = firstName.capitalize()
+print("Введите ваше имя: ")
+name = input()
+name = name.capitalize()
+print(firstName + " " + name)
